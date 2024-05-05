@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pucpr-react/static/css/main.c582dee0.css",
+    "main.js": "/pucpr-react/static/js/main.de6c6954.js",
+    "index.html": "/pucpr-react/index.html",
+    "main.c582dee0.css.map": "/pucpr-react/static/css/main.c582dee0.css.map",
+    "main.de6c6954.js.map": "/pucpr-react/static/js/main.de6c6954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c582dee0.css",
+    "static/js/main.de6c6954.js"
+  ]
+}
