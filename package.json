@@ -1,8 +1,10 @@
 {
   "name": "login",
   "version": "1.0.0",
+  "homepage": "https://xandao-dev.github.io/pucpr-react",
   "dependencies": {
     "firebase": "^10.11.1",
+    "gh-pages": "^6.1.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.23.0",
@@ -10,7 +12,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [

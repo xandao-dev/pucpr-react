@@ -7,7 +7,7 @@ import './app.css';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/pucpr-react">
       <div className="App">
         <Routes>
           <Route path="/" element={<Login />} />
