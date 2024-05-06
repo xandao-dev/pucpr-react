@@ -28,5 +28,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^9.2.0",
+    "eslint-plugin-security": "^3.0.0"
   }
 }
